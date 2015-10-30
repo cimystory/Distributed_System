@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/WebServiceDesignStyles2ProjectServer/SpyMessageService?WSDL" uri="xml-resources/web-service-references/SpyMessageService/wsdl/localhost_8080/WebServiceDesignStyles2ProjectServer/SpyMessageService.wsdl"/>
+    <system systemId="http://localhost:8080/WebServiceDesignStyles2ProjectServer/SpyMessageService?xsd=1" uri="xml-resources/web-service-references/SpyMessageService/wsdl/localhost_8080/WebServiceDesignStyles2ProjectServer/SpyMessageService.xsd_1.xsd"/>
+</catalog>
